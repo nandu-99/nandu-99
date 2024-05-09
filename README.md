@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivekananda Pottabathini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [GSOC(creative commons)](https://github.com/nandu-99/cc-resource-archive)
+- [portFolio]([url](https://vivekananda-portfolio.netlify.app))
 
 - 🌱 I’m currently learning **React-JS**
 
