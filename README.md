@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivekananda Pottabathini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Leave Management System**
+- 🔭 I’m currently working on **Student Management System**
 
 - 🌱 I’m currently learning **Angular**
 
